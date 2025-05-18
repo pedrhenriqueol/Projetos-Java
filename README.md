@@ -37,4 +37,4 @@ Sistema de **Controle de Estoque** desenvolvido em Java, com interface gráfica 
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seuusuario/seuprojeto.git
+   git clone https://github.com/pedrohenriqueol/Projetos-Java.git
